@@ -1,2 +1,0 @@
-# kvant
-new quantum
